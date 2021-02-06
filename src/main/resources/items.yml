@@ -1,0 +1,11 @@
+startersword:
+  id: 'mp_startersword'
+  name: 'Starter Sword'
+  description: 'Basic starting sword with bonus attributes.'
+  quality: 2
+  attributes:
+    - 5: 5
+    - 7: 1.0
+  bonusAttributes:
+    - 5: 3
+    - 7: 1.0

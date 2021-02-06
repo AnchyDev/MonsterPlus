@@ -1,0 +1,18 @@
+monsterPlusEnabled: true
+monsterPlusTierBlockDistance: 100
+monsterPlusNametagFormat: "&fT{tier} {name} &c{health} / {maxHealth}"
+
+# Monster Plus - Tier Change Message
+monsterPlusTierChangeMessage: true
+
+monsterPlusTierTitleStronger: "Entered Tier {tier}"
+monsterPlusTierSubTitleStronger: "The monsters grow stronger."
+monsterPlusTierTitleFadeInTicksStronger: 10
+monsterPlusTierTitleStayTicksStronger: 10
+monsterPlusTierTitleFadeOutTicksStronger: 10
+
+monsterPlusTierTitleWeaker: "Entered Tier {tier}"
+monsterPlusTierSubTitleWeaker: "The monsters grow weaker."
+monsterPlusTierTitleFadeInTicksWeaker: 10
+monsterPlusTierTitleStayTicksWeaker: 10
+monsterPlusTierTitleFadeOutTicksWeaker: 10
